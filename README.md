@@ -1,2 +1,1 @@
-# homework3-2021
-SI 339 Winter 2021
+# hw3-2020
