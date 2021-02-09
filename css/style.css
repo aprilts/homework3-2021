@@ -12,11 +12,11 @@ brackets or add additional rules
 	grid-column: 2/3;
 }
 
-.item1 {
+.item1, .item4 {
 	grid-column: 1/2;
 }
 
-.item4 {
+.item_e {
 	grid-column: 3/4;
 }
 
